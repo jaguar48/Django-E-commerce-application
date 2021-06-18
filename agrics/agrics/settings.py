@@ -110,9 +110,9 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-BRAINTREE_MERCHANT_ID = 'vw42p3826gp9zksd' # Merchant ID
-BRAINTREE_PUBLIC_KEY = 'vrkt8v34t35kzcgt' # Public Key
-BRAINTREE_PRIVATE_KEY = 'd264d939d4bf81934f37b7b3f81a3aa4' # Private key
+BRAINTREE_MERCHANT_ID = '' # Merchant ID
+BRAINTREE_PUBLIC_KEY = '' # Public Key
+BRAINTREE_PRIVATE_KEY = '' # Private key
 
 BRAINTREE_CONF = braintree.Configuration(
     braintree.Environment.Sandbox,
