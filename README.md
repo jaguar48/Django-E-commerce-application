@@ -1,4 +1,4 @@
-This is an E-commerce project that are purely built on django framework and javascript.
+This is an E-commerce web application that are purely built on django framework and javascript.
 
 It comes with celery for background task execution
 The default django-admin dashboard is customised to manage the E-commerce processes, such as order fufilment, coupons, products creation.
